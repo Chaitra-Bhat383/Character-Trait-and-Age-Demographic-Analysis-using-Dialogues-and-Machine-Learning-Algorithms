@@ -6,7 +6,7 @@ The proposed project aims to develop a machine learning-based system that can pr
 
 The project will focus on two main objectives: (1) predicting character traits such as openness, conscientiousness, extraversion, agreeableness, and neuroticism, and (2) analyzing age demographics such as age groups, age ranges, and generational cohorts. The system will be trained on a large dataset of dialogues from various sources and validated using standard evaluation metrics.
 
-## Datasets:
+## Datasets: 
 
 * [Harry Potter Dataset](https://www.kaggle.com/datasets/gulsahdemiryurek/harry-potter-dataset?select=Harry+Potter+1.csv)
 
