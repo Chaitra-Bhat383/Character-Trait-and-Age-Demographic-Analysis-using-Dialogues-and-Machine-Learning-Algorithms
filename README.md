@@ -15,7 +15,6 @@ The project will focus on two main objectives: (1) predicting character traits s
 * [Gender Bias Dataset](https://docs.google.com/spreadsheets/d/1nfCE-9ysFUnA8fIGXc4raYqp2vPOJh4Cct609AHxVwo/edit?usp=sharing)
 
 ## Contributers:
-# Contributors
 
 * [Charvi Bannur](https://github.com/charvibannur)
 
