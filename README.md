@@ -23,3 +23,5 @@ The project will focus on two main objectives: (1) predicting character traits s
 * [Sai Shruthi Shashidhar](https://github.com/Shruthi1707)
 
 * [Suraj R Gautham](https://github.com/surajgautham)
+
+* [Ankitha C](https://github.com/Ankithac45)
