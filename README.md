@@ -1,5 +1,5 @@
 # Character Trait and Age Demographic Analysis using Dialogues and Machine Learning Algorithms
-Accepted at 2023 8th IEEE International Conference on Recent Advances and Innovations in Engineering(ICRAIE), Malaysia
+Accepted at 8th IEEE International Conference on Recent Advances and Innovations in Engineering (ICRAIE) 2023, Malaysia
 
 ## Problem Statement
 The proposed project aims to develop a machine learning-based system that can predict and analyze character traits and age demographics by analyzing dialogues from various sources such as movies, books, and social media. The system will use Natural Language Processing (NLP) techniques to extract relevant features from the dialogues and then use these features to train a machine learning model.
